@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hannah Scribner
+# Hi 👋, I'm Hannah Scribner!!!
 ## About Me
 
 - 🏦 I'm currently working for a state college in Nebraska teaching computer programming
@@ -11,7 +11,7 @@
 
 - 🧠 I like to learn something new
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 📫 How to reach me **hascri01@wsc.edu*
 
 - 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
