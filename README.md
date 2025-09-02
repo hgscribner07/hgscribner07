@@ -1,29 +1,22 @@
-# Hi 👋, I'm Hannah Scribner!!!
+# Hi 👋, I'm Hannah Scribner
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently working for a state college in Nebraska teaching computer programming.
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 I’m studying to get my degree in Computer Information Systems.
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🤔 I am learning C++, HTML, and CSS.
 
-- 👨🏻‍💻 Love programming and resolving problems
+- 👨🏻‍💻 I love learning new programs, and figuring out the different parts.
 
-- 🧠 I like to learn something new
+- 🧠 I like to figure out problems my own way, that way I can understand them better.
 
 - 📫 How to reach me **hascri01@wsc.edu*
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
-
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
 
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
+- DCHS - Graduated 2025
 
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- Wayne State College - Currently working on getting my bachelor's degree for Computer Information Systems. 
