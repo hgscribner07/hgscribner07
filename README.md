@@ -1,11 +1,11 @@
 # Hi 👋, I'm Hannah Scribner
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming.
+- 🏦 I'm currently working for Wayne State College in the library.
 
 - 📚 I’m studying to get my degree in Computer Information Systems.
 
-- 🤔 I am learning C++, HTML, and CSS.
+- 🤔 I am learning C++, JAVA, HTML, and CSS.
 
 - 👨🏻‍💻 I love learning new programs, and figuring out the different parts.
 
